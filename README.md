@@ -41,6 +41,7 @@ To configure the RGB, double tap the zero key, then tap one of the following but
 
 | Key      | RGB Function   |
 | -------- | -------------- |
+| 5        | Toggle On/Off  |
 | 8        | Value Increase |
 | 2        | Value Decrease |
 | 4        | Hue Decrease   |
